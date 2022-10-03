@@ -1,0 +1,2 @@
+# DSBA-6201-Business-Intelligence-and-Analytics-
+COURSE DESCRIPTION  An overview of the business approach to identifying, modeling, retrieving, sharing, and  evaluating an enterprise’s data and knowledge assets. Focuses on the understanding of  data and knowledge management, data warehousing, data mining (including rule-based  systems, decision trees, neural networks, etc.), and other business intelligence  concepts. Covers the organizational, technological and management perspectives.  
